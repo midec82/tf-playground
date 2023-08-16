@@ -2,6 +2,7 @@
 
 Resources:
 
+
 - [Check Point Management Terraform Provider](https://registry.terraform.io/providers/CheckPointSW/checkpoint/latest/docs)
 - [Check Point Management API](https://sc1.checkpoint.com/documents/latest/APIs/#introduction~v1.9.1%20)
 
